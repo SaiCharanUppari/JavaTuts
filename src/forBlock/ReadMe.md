@@ -5,4 +5,4 @@ But here, static block got executed first and printed "This statement belongs to
 
 Same with variable 'a', it was declared as an Instance variable and expected to print 'a' when main method gest executed. Before main, static block got executed and variable 'a' is assigned with value '5' and then it is printed from main method.
 
-<img width="396" alt="staticForBlock" src="staticForBlock.PNG">
+<img alt="staticForBlock" src="staticForBlock.PNG">
