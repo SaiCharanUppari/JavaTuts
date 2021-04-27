@@ -6,6 +6,10 @@
 # Compiled class file
 *.class
 
+# Folders to exclude
+.settings/
+bin/
+
 # Log file
 *.log
 
