@@ -1,6 +1,5 @@
 # Output:
-Here it is observed that the **Instance Variable '_i_'** is being initialized everytime whenever a new object gets created,
-but where as the **Static Variable '_j_'** is not being initialized everytime a new object is created but the same variable is being shared by all the objects.
+Here it is observed that the statements **d1.display()** and **StaticDemo.display()** are giving the same output i.e. the same operation is done by both. Which means a **_static methond can be called by its ClassName or the Object of that Class_**
 
 <img width="396" alt="staticForMethod" src="staticForMethod.PNG">
 
